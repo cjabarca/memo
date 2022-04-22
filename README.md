@@ -1,2 +1,2 @@
-# thesis
-pre-grade thesis
+# memo
+pre-grade memo
