@@ -1,1 +1,5 @@
-*.txt
+/images/*
+/code/*.gif
+/code/.ipynb_checkpoints
+/voronoi/2K/*.txt
+/voronoi/2K/SE/*.txt
