@@ -1,2 +1,2 @@
 # memo
-pre-grade memo
+undergraduate memo
